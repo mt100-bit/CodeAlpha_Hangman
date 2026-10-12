@@ -12,6 +12,7 @@ The game challenges players to guess a hidden word one letter at a time before r
 * Accepts letter guesses from the player.
 * Tracks guessed letters and remaining attempts.
 * Provides feedback on correct and incorrect guesses.
+* Determines whether the player wins or loses.
 
 ## Technologies Used
 
